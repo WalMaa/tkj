@@ -1,0 +1,28 @@
+{
+  "name": "jtkj-interface",
+  "version": "1.0.0",
+  "description": "",
+  "main": "interface.js",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "mqtt": "^4.2.3",
+    "npm": "^10.2.0",
+    "queue-fifo": "^0.2.6",
+    "serialport": "^9.0.2",
+    "socket.io-client": "^4.2.0"
+  },
+  "scripts": {
+    "start": "node interface && exit 0",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vilduviper/jtkj-gateway.git"
+  },
+  "author": "Vili Pelttari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vilduviper/jtkj-gateway/issues"
+  },
+  "homepage": "https://github.com/vilduviper/jtkj-gateway#readme"
+}
