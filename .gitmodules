@@ -1,5 +1,0 @@
-[submodule "tjkj*"]
-	url = https://github.com/WalMaa/tkj.git
-[submodule "tkj"]
-	path = tkj
-	url = https://github.com/WalMaa/tkj.git
